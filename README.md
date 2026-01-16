@@ -13,10 +13,12 @@ This repository contains my cybersecurity certifications and learning achievemen
 - Oracle Cloud Infrastructure 2025 Certified Foundations Associate
 <img width="431" height="299" alt="Orace Certified Cloud Infrastructure Associate" src="https://github.com/user-attachments/assets/d125d20f-603d-4007-872c-0a12101890e0" />
 
-- Hack The Box Academy
-- Other cybersecurity training programs
+- Oracle AI Vector Search Certified Professional
+<img width="422" height="297" alt="Oracle AI Vector Search Certified Professional" src="https://github.com/user-attachments/assets/6c35f6ff-9a57-46a9-8939-70d8097e2f0c" />
+- Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
+<img width="418" height="293" alt="Oracle Cloud Infrastructure associate" src="https://github.com/user-attachments/assets/68b065cf-ef37-48e6-b7d3-088143e17bc7" />
+- TryHackMe
+<img width="326" height="82" alt="TryHackMe" src="https://github.com/user-attachments/assets/5008e946-579b-47b6-a5de-9caf819da7f0" />
 
-## Verification
-Where available, credential verification links are included alongside certificate files.
 
 > Note: Certificates are shared for verification and professional portfolio purposes.
