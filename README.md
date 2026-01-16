@@ -25,4 +25,3 @@ This repository contains my cybersecurity certifications and learning achievemen
 <img width="326" height="82" alt="TryHackMe" src="https://github.com/user-attachments/assets/5008e946-579b-47b6-a5de-9caf819da7f0" />
 
 
-> Note: Certificates are shared for verification and professional portfolio purposes.
