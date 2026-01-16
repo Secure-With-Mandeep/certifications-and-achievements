@@ -9,6 +9,8 @@ This repository contains my cybersecurity certifications and learning achievemen
 ![OSCP](https://github.com/user-attachments/assets/eecd9549-8aae-4e2e-af45-4da896f93274)
 
 - CEH
+![Certified ethical hacker](https://github.com/user-attachments/assets/63ba8e8d-c622-4737-91a1-2bc56d0bce83)
+- 
 - TryHackMe
 - Hack The Box Academy
 - Other cybersecurity training programs
