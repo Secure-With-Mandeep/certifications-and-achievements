@@ -1,4 +1,4 @@
-# certifications-and-achievements
+# Certifications-and-Achievements
 
 This repository contains my cybersecurity certifications and learning achievements.
 
