@@ -10,8 +10,9 @@ This repository contains my cybersecurity certifications and learning achievemen
 
 - CEH
 ![Certified ethical hacker](https://github.com/user-attachments/assets/63ba8e8d-c622-4737-91a1-2bc56d0bce83)
-- 
-- TryHackMe
+- Oracle Cloud Infrastructure 2025 Certified Foundations Associate
+<img width="431" height="299" alt="Orace Certified Cloud Infrastructure Associate" src="https://github.com/user-attachments/assets/d125d20f-603d-4007-872c-0a12101890e0" />
+
 - Hack The Box Academy
 - Other cybersecurity training programs
 
