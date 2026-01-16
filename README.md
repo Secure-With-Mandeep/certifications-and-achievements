@@ -21,7 +21,7 @@ This repository contains my cybersecurity certifications and learning achievemen
 - Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
 <img width="418" height="293" alt="Oracle Cloud Infrastructure associate" src="https://github.com/user-attachments/assets/68b065cf-ef37-48e6-b7d3-088143e17bc7" />
 
-- TryHackMe - Ranking among the top 4% worldwide with about 5 million users regestered 
+- Ranked in the top 4% on TryHackMe, a globally recognized offensive security training platform with 5M+ registered users.
 <img width="326" height="82" alt="TryHackMe" src="https://github.com/user-attachments/assets/5008e946-579b-47b6-a5de-9caf819da7f0" />
 
 
