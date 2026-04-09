@@ -12,7 +12,13 @@ This repository contains my cybersecurity certifications and learning achievemen
 - Certified Ethical Hacker 
 ![Certified ethical hacker](https://github.com/user-attachments/assets/63ba8e8d-c622-4737-91a1-2bc56d0bce83)
 
-- Oracle Cloud Infrastructure 2025 Certified Foundations Associate
+
+- TryHackMe Jr Penetration tester
+![TryHAckMe](https://github.com/user-attachments/assets/155bf74f-2376-4c09-97df-0aad8b7f1dfc)
+
+
+- Oracle Cloud Infrastructure 2025 Certified Foundations![Uploading Tryhackme Pentest completion.png…]()
+ Associate
 <img width="431" height="299" alt="Orace Certified Cloud Infrastructure Associate" src="https://github.com/user-attachments/assets/d125d20f-603d-4007-872c-0a12101890e0" />
 
 - Oracle AI Vector Search Certified Professional
