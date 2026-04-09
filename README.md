@@ -17,7 +17,7 @@ This repository contains my cybersecurity certifications and learning achievemen
 ![TryHAckMe](https://github.com/user-attachments/assets/155bf74f-2376-4c09-97df-0aad8b7f1dfc)
 
 
-- Oracle Cloud Infrastructure 2025 Certified Foundations![Uploading Tryhackme Pentest completion.png…]()
+- Oracle Cloud Infrastructure 2025 Certified Foundations
  Associate
 <img width="431" height="299" alt="Orace Certified Cloud Infrastructure Associate" src="https://github.com/user-attachments/assets/d125d20f-603d-4007-872c-0a12101890e0" />
 
