@@ -16,7 +16,7 @@ This repository contains my cybersecurity certifications and learning achievemen
 - TryHackMe Jr Penetration tester
 ![TryHAckMe](https://github.com/user-attachments/assets/155bf74f-2376-4c09-97df-0aad8b7f1dfc)
 
-- Ranked in the top 3% on TryHackMe, a globally recognized offensive security training platform with 5M+ registered users.
+- Ranked in the top 3% worldwide on TryHackMe, a globally recognized offensive security training platform with 5M+ registered users.
 <img width="353" height="86" alt="TryHackMe3%" src="https://github.com/user-attachments/assets/2f2272c2-8ea0-4c6c-b7e0-a24b0fb4446f" />
 
 - Oracle Cloud Infrastructure 2025 Certified Foundations
