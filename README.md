@@ -28,5 +28,6 @@ This repository contains my cybersecurity certifications and learning achievemen
 <img width="418" height="293" alt="Oracle Cloud Infrastructure associate" src="https://github.com/user-attachments/assets/68b065cf-ef37-48e6-b7d3-088143e17bc7" />
 
 - Ranked in the top 3% on TryHackMe, a globally recognized offensive security training platform with 5M+ registered users.
-<img width="1122" height="794" alt="Tryhackme Pentest completion" src="https://github.com/user-attachments/assets/941527b7-72fe-4672-9809-5cbb2e92526c" />
+<img width="353" height="86" alt="TryHackMe3%" src="https://github.com/user-attachments/assets/2f2272c2-8ea0-4c6c-b7e0-a24b0fb4446f" />
+
 
