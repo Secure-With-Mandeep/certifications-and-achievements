@@ -16,6 +16,10 @@ This repository contains my cybersecurity certifications and learning achievemen
 - TryHackMe Jr Penetration tester
 ![TryHAckMe](https://github.com/user-attachments/assets/155bf74f-2376-4c09-97df-0aad8b7f1dfc)
 
+- TryHackMe SOC Level 1 
+![TryHackMe SOC L1](https://github.com/user-attachments/assets/d62226a0-8e1b-453b-a681-6281b73ea35a)
+
+
 - Ranked in the top 3% worldwide on TryHackMe, a globally recognized offensive security training platform with 5M+ registered users.
 <img width="353" height="86" alt="TryHackMe3%" src="https://github.com/user-attachments/assets/2f2272c2-8ea0-4c6c-b7e0-a24b0fb4446f" />
 
