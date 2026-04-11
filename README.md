@@ -21,7 +21,7 @@ This repository contains my cybersecurity certifications and learning achievemen
 
 
 - Ranked in the top 2% worldwide on TryHackMe, a globally recognized offensive security training platform with 5M+ registered users.
-  [TryHackMe top 2%](https://github.com/user-attachments/assets/f3ae8851-6816-403e-8591-c67edbc66eeb)
+![TryHackMe top 2%](https://github.com/user-attachments/assets/f3ae8851-6816-403e-8591-c67edbc66eeb)
 
 
 - Oracle Cloud Infrastructure 2025 Certified Foundations
